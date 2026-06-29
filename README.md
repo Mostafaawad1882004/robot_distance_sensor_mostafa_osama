@@ -32,4 +32,4 @@ The core of this application revolves around the Robot class, which manages the 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/Mostafaawad1882004/Robot_distance_sensor.git](https://github.com/Mostafaawad1882004/Robot_distance_sensor.git)
+   git clone [https://github.com/Mostafaawad1882004/robot_distance_sensor_mostafa_osama.git](https://github.com/Mostafaawad1882004/robot_distance_sensor_mostafa_osama.git)
